@@ -9,31 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-Explain how your project works
-Explain how your project works
-Explain how your project works
-Explain how your project works
-Explain how your project works
-Explain how your project works
-
-
-This is working by blah blahh
--RNMM
+Use the DIP switch to control the 7-segment display
 
 ## How to test
 
-Explain how to use your project
-Explain how to use your project
-Explain how to use your project
-Explain how to use your project
-Explain how to use your project
-Explain how to use your project
-Explain how to use your project
-Explain how to use your project
+Use the DIP switch to control the 7-segment display
 
-
-Test this with input blah blahh
 -RNMM
 
 ## External hardware
